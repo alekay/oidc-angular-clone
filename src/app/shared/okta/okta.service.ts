@@ -9,8 +9,8 @@ export class Okta {
 
   constructor() {
     this.widget = new OktaSignIn({
-      baseUrl: 'https://dev-133320.okta.com',
-      clientId: '0oa5amf2sh3ETJwgI357',
+      baseUrl: 'https://dev-62376248.okta.com',
+      clientId: '0oaz1outrxEOsf1IM5d6',
       redirectUri: 'http://localhost:4200'
     });
   }

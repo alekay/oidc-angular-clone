@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-okta-example"
+    }
+  },
+  "defaultProject": "angular-okta-example",
+  "cli": {
+    "analytics": false
+  }
 }
